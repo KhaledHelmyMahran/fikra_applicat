@@ -1,2 +1,5 @@
 *.Dart linguist-detectable=true
+*.dart linguist-detectable=true
+*.flutter linguist-detectable=true
+*.html linguist-detectable=true
 *.* linguist-detectable=false
