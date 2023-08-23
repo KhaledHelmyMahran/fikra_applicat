@@ -1,4 +1,5 @@
 *.c++ linguist-detectable=false
+*.html linguist-detectable=false
 *.dart linguist-detectable=true
 *.C++ linguist-detectable=false
 *.Dart linguist-detectable=true
